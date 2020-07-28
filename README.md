@@ -1,7 +1,7 @@
 # Automation
 
-The automation.py file contains a python script.
+1.The automation.py file contains a python script.
 
-The script fetches a video content and plays it.
+2.The script fetches a video content and plays it.
 
-The test cases are written in unittests.
+3.The test cases are written in unittests.
